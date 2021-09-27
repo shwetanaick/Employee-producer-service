@@ -1,0 +1,13 @@
+syntax = "proto2";
+option java_package = "com.benzassignment.file.service.protobuf";
+
+message EmployeeDetails {
+
+    required string name = 1;
+    required string dob = 2;
+    required string salary = 3;
+    required int64 age = 4;
+    required string fileType = 5;
+    required string operation = 6;
+
+}

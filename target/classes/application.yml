@@ -1,0 +1,12 @@
+server:
+  port: 9001
+kafka:
+  producer:
+    topic: "test_topic"
+    bootstrap-servers: "localhost:9092"
+    keySerializer: "org.apache.kafka.common.serialization.StringSerializer"
+    valueSerializer: "org.apache.kafka.common.serialization.StringSerializer"
+
+file:
+  read:
+    url: "http://localhost:9002/file/read/"

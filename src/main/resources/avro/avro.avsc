@@ -1,0 +1,35 @@
+{
+  "name": "EmployeeRecord",
+  "type": "record",
+  "namespace": "com.avro",
+  "fields": [
+    {
+      "name": "name",
+      "type": "string"
+    },
+    {
+      "name": "dob",
+      "type": "string"
+    },
+    {
+      "name": "salary",
+      "type": "string"
+    },
+    {
+      "name": "age",
+      "type": "int"
+    },
+    {
+      "name": "fileType",
+      "type": "string"
+    },
+    {
+      "name": "operation",
+      "type": "string"
+    },
+    {
+      "name": "id",
+      "type": "string"
+    }
+  ]
+}

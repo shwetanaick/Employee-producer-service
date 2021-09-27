@@ -1,0 +1,8 @@
+com\benzassignment\employee\producer\service\config\KafkaProducerConfig.class
+com\avro\EmployeeRecord.class
+com\benzassignment\employee\producer\service\model\Employee.class
+com\benzassignment\employee\producer\service\controller\FileController.class
+com\avro\EmployeeRecord$1.class
+com\benzassignment\employee\producer\service\Application.class
+com\avro\EmployeeRecord$Builder.class
+com\benzassignment\employee\producer\service\service\FileService.class
