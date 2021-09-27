@@ -23,4 +23,10 @@ Unit tests have been written for each operation.
 
 Only Read operation is done over HTTP.
 
-
+Sample input JSON:
+{
+  "name":"XML1",
+  "dob":"20-08-2111",
+  "salary":"110555001.150",
+  "age":20
+}
